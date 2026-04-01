@@ -1,0 +1,6 @@
+id,first_name,last_name,email,signup_date,country,spend
+1,Anna,Jansen,anna.jansen@example.com,2023-05-10,NL,120.50
+2,Bram,De Vries,bram.devries@example.com,2022-11-02,NL,75.00
+3,Clara,Smits,clara.smits@example.com,2024-01-15,BE,200.00
+4,David,Verhoeven,david.verhoeven@example.com,2021-07-22,NL,0.00
+5,Elsa,Bakker,elsa.bakker@example.com,2023-09-30,DE,50.25
