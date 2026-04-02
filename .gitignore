@@ -1,7 +1,15 @@
-# .gitignore
+# Python
 __pycache__/
 *.pyc
-*.db
-.env
+
+# Virtual env
+.venv/
+
+# IDE / env
 .vscode/
+.env
+
+# Generated files
+/output/
+*.db
 
